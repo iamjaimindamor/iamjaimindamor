@@ -12,6 +12,5 @@
 - 🏗️ MERN Stack
 - 🗄️ Azure DevOps
 - 🔐 OpenIDDict 
-- 🤖 GitHub Actions
 
 <br>
