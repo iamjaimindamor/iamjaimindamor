@@ -4,10 +4,6 @@
 
 <br>
 
-[Pinned Repositories (with compelling Readme files)]
-
-<br>
-
 **Skills:**
 - 💻 .NET
 - ⚛️ React
