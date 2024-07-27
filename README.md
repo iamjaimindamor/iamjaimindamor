@@ -1,4 +1,4 @@
-## Hi ,I'm <span style="color:blue"> Jaimin </span> Here 👋
+## Hi , I'm Jaimin Here 👋
 
 **Full-stack developer with expertise in .NET, React, and MERN stack. Passionate about building user-friendly web applications. I enjoy exploring new technologies .**
 
