@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**iamjaimindamor/iamjaimindamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jaimin Damor Here
 
-Here are some ideas to get you started:
+**Full-stack developer with expertise in .NET, React, and MERN stack. Passionate about building user-friendly web applications. I enjoy exploring new technologies .**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[Pinned Repositories (with compelling Readme files)]
+
+<br>
+
+**Skills:**
+- 💻 .NET
+- ⚛️ React
+- 🌐 HTML, CSS, JavaScript
+- 🖥️ Node.js
+- 🏗️ MERN Stack
+- 🗄️ Azure DevOps
+- 🔐 OpenIDDict 
+- 🤖 GitHub Actions
+
+<br>
